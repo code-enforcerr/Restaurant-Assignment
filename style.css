@@ -40,7 +40,6 @@ button {
   height: 50px;
   width: 150px;
   cursor: pointer;
-  
 }
 
 button:hover {
@@ -59,7 +58,6 @@ li:hover {
   margin: 50px 0 0 0;
   object-fit: cover;
   border-radius: 0 200px 200px 0;
-  /* border: #253746 solid 3px; */
 }
 
 .divimg {
@@ -71,8 +69,6 @@ li:hover {
 
 .bodyview {
   display: flex;
-  /* justify-content: space-evenly; */
-
 }
 
 #text {
@@ -82,7 +78,7 @@ li:hover {
   color: #253746;
 }
 
-h4{
+h4 {
   font-size: 44px;
   color: #253746;
 }
@@ -91,30 +87,28 @@ h4{
   flex-direction: row-reverse;
 }
 
-#image2{
+#image2 {
   width: 721px;
   height: 506.344px;
   margin: 50px 0 0 0;
   object-fit: cover;
-  border-radius: 200px 0 0 200px ;
+  border-radius: 200px 0 0 200px;
 }
 
 #text2 {
-  margin: 100px 190px 0 0 ;
+  margin: 100px 190px 0 0;
   text-align: center;
   font-size: 16px;
   color: #253746;
-
 }
 
-.sub-footer{
+.sub-footer {
   display: flex;
   background-color: #253746;
   color: #efe4ce;
-  padding: ;
 }
 
-footer{
+footer {
   text-align: center;
   color: #253746;
 }
